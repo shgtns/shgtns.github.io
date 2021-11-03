@@ -1,0 +1,1 @@
+var search_data = {"index":{"searchIndex":["index.html"],"longSearchIndex":[""],"info":[["index.html","","index_html.html","","<p>&lt;h1&gt;Title goes here&lt;/h1&gt; hello there&lt;br/&gt; おはようございます。\n"]]}}
