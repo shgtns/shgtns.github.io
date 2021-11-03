@@ -4,3 +4,7 @@
 
 layout: home
 ---
+# Title goes here
+hello there
+
+おはようございます。
