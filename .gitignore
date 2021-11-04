@@ -1,7 +1,18 @@
-.DS_store
-_site
-.sass-cache
-.jekyll-cache
+# Jekyll
+_site/
+*-cache/
 .jekyll-metadata
-vendor
-doc
+
+# Ruby
+.bundle/
+*.gem
+Gemfile.lock
+
+# Files
+.analysis
+.DS_Store
+*.swp
+*~
+
+# Folders
+/vendor
