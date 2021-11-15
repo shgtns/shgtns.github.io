@@ -1,5 +1,10 @@
 // Placeholder to allow overriding predefined variables smoothly.
 $base-font-size:   20px;
 
-$link-base-color:       $sol-yellow;
-$link-visited-color:    mix($sol-yellow, $sol-mono00);
+$link-base-color:       #dac619;
+$link-visited-color:    mix(#dac619, $sol-mono00);
+
+$background-color:      #38465b;
+$text-color:            #a7b0ba;
+$brand-color:           #a3a3a3;
+$site-title-color:      #cfcfb4;
