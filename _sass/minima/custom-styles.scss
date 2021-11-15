@@ -12,7 +12,14 @@
     text-decoration: underline;
     font-size: 0.9375em;
     border: 1px solid $border-color-01;
-    border-radius: 3px;
+    border-radius: 7px;
     background-color: $code-background-color;
-    padding: 1px 5px;
+    padding: 3px 5px;
+}
+
+pre, code{
+    border-radius: 7px;
+}
+.highlight{
+    border-radius:7px;
 }
