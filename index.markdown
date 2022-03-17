@@ -5,6 +5,6 @@
 layout: home
 list_title: 'Posts'
 ---
-**<span style="font-size: 1.5em;">おはようございます。</span>**
+**<span style="font-size: 1.5em;">This is not a website</span>**
 
-これは私の遊び場です。
+Nothing more than just some notes and quick tutorials to myself.

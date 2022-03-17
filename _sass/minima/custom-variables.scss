@@ -2,10 +2,10 @@
 $base-font-size:   20px;
 
 $link-base-color:       #dac619;
-$link-visited-color:    mix(#dac619, $sol-mono00);
+$link-visited-color:    darken($link-base-color, 15%);
 
 $background-color:      #38465b;
 $code-background-color: #04242d;
 $text-color:            #a7b0ba;
 $brand-color:           #a3a3a3;
-$site-title-color:      #cfcfb4;
+$site-title-color:      #e8ba31;
