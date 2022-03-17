@@ -5,6 +5,6 @@
 layout: home
 list_title: 'Posts'
 ---
-**<span style="font-size: 1.5em;">This is not a website</span>**
+<h1>This is not a website</h1>
 
 Nothing more than just some notes and quick tutorials to myself.
