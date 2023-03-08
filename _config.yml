@@ -44,8 +44,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
     # keybase: jekyll
 
 # Build settings
-# theme: minima
-theme: hitchens-theme
+theme: minima
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -71,5 +71,3 @@ sass:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-hide_search: true
