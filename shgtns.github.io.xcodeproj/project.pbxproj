@@ -1,0 +1,96 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		708F3DB728D3376E00F4C179 /* _posts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _posts; sourceTree = "<group>"; };
+		708F3DB828D3376E00F4C179 /* _sass */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _sass; sourceTree = "<group>"; };
+		708F3DB928D3376E00F4C179 /* about.markdown */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = about.markdown; sourceTree = "<group>"; };
+		708F3DBA28D3376E00F4C179 /* doc */ = {isa = PBXFileReference; lastKnownFileType = folder; path = doc; sourceTree = "<group>"; };
+		708F3DBB28D3376E00F4C179 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		708F3DBC28D3376E00F4C179 /* _layouts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _layouts; sourceTree = "<group>"; };
+		708F3DBD28D3376E00F4C179 /* _config.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = _config.yml; sourceTree = "<group>"; };
+		708F3DBE28D3376E00F4C179 /* _includes */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _includes; sourceTree = "<group>"; };
+		708F3DBF28D3376E00F4C179 /* assets */ = {isa = PBXFileReference; lastKnownFileType = folder; path = assets; sourceTree = "<group>"; };
+		708F3DC028D3376E00F4C179 /* index.markdown */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = index.markdown; sourceTree = "<group>"; };
+		708F3DC128D3376E00F4C179 /* Gemfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Gemfile; sourceTree = "<group>"; };
+		708F3DC228D3376E00F4C179 /* 404.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = 404.html; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		701BF17B28D3370A005A02C2 = {
+			isa = PBXGroup;
+			children = (
+				708F3DBD28D3376E00F4C179 /* _config.yml */,
+				708F3DBE28D3376E00F4C179 /* _includes */,
+				708F3DBC28D3376E00F4C179 /* _layouts */,
+				708F3DB728D3376E00F4C179 /* _posts */,
+				708F3DB828D3376E00F4C179 /* _sass */,
+				708F3DC228D3376E00F4C179 /* 404.html */,
+				708F3DB928D3376E00F4C179 /* about.markdown */,
+				708F3DBF28D3376E00F4C179 /* assets */,
+				708F3DBA28D3376E00F4C179 /* doc */,
+				708F3DC128D3376E00F4C179 /* Gemfile */,
+				708F3DC028D3376E00F4C179 /* index.markdown */,
+				708F3DBB28D3376E00F4C179 /* README.md */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		701BF17C28D3370A005A02C2 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1400;
+			};
+			buildConfigurationList = 701BF17F28D3370A005A02C2 /* Build configuration list for PBXProject "shgtns.github.io" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 701BF17B28D3370A005A02C2;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		701BF18028D3370A005A02C2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		701BF18128D3370A005A02C2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		701BF17F28D3370A005A02C2 /* Build configuration list for PBXProject "shgtns.github.io" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				701BF18028D3370A005A02C2 /* Debug */,
+				701BF18128D3370A005A02C2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 701BF17C28D3370A005A02C2 /* Project object */;
+}
